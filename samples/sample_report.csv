@@ -1,0 +1,8 @@
+Plugin,Plugin Name,Family,Severity,VPR,IP Address,NetBIOS Name,DNS Name,MAC Address,Repository,Agent ID
+156014,Apache Log4j Remote Code Execution (Log4Shell) (CVE-2021-44228),Web Servers,Critical,9.8,192.168.1.100,WEB-PROD,web.corp.local,00:50:56:XX:YY:ZZ,Production,
+147142,Microsoft Exchange Server Remote Code Execution (ProxyLogon) (CVE-2021-26855),Windows,Critical,9.8,192.168.1.101,EXCH-01,mail.corp.local,00:50:56:AA:BB:CC,Production,
+151489,Windows Print Spooler Remote Code Execution (PrintNightmare) (CVE-2021-34527),Windows,High,8.8,192.168.1.105,FILE-SRV,files.corp.local,00:50:56:11:22:33,Production,
+171432,Microsoft Outlook Elevation of Privilege (CVE-2023-23397),Windows,Critical,9.8,192.168.1.200,WORKSTATION-01,pc-01.corp.local,00:50:56:99:88:77,Workstations,
+10043,OpenSSH < 4.4 Remote Code Execution (CVE-2006-5051),General,Medium,6.5,192.168.1.50,LEGACY-LINUX,linux.corp.local,00:50:56:44:55:66,Legacy,
+57582,SSL Certificate Cannot Be Trusted,General,Medium,4.5,192.168.1.100,WEB-PROD,web.corp.local,00:50:56:XX:YY:ZZ,Production,
+10879,Google Chrome < 100.0.4896.60 Multiple Vulnerabilities (CVE-2022-1096),Windows,High,7.2,192.168.1.201,WORKSTATION-02,pc-02.corp.local,00:50:56:77:66:55,Workstations,

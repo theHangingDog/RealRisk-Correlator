@@ -1,0 +1,5 @@
+CVE-2021-44228,Log4Shell,Critical
+CVE-2023-23397,Outlook,Critical
+CVE-2017-0144,EternalBlue,Critical
+CVE-2020-0601,CurveBall,High
+CVE-1999-0001,OldBug,Low
